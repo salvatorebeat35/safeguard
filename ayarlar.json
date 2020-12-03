@@ -1,0 +1,15 @@
+{"botOwner":"SAHİP ID",
+ "botPrefix":"PREFİX",
+ "botToken":"TOKEN",
+ "guildID":"SUNUCU İD",
+ "botseskanali":"BOTUN GİRECEĞİ KANALIN İDSİ",
+ "logChannelID":"LOG KANAL ID",
+ "boosterRole":"BOOSTER ROL İD",
+ "jailRole":"JAİL ROL İD",
+ "whitelist":["GÜVENLİ ÜYE"],
+ "channelGuard":true,
+ "serverGuard":true,
+ "botGuard":true,
+ "banGuard":true,
+ "kickGuard":true
+}
